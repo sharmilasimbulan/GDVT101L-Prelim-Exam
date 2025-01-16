@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LSB\\SimbulanS_PrelimExam\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22162744-ECBE-1897-8E37-75D8F8FE0D04}|Assembly-CSharp.csproj|c:\\users\\lsb\\simbulans_prelimexam\\assets\\scripts\\carmoving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22162744-ECBE-1897-8E37-75D8F8FE0D04}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\carmoving.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Carmoving.cs",
+              "DocumentMoniker": "C:\\Users\\LSB\\SimbulanS_PrelimExam\\Assets\\Scripts\\Carmoving.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Carmoving.cs",
+              "ToolTip": "C:\\Users\\LSB\\SimbulanS_PrelimExam\\Assets\\Scripts\\Carmoving.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Carmoving.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T06:27:51.201Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
